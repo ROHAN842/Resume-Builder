@@ -15,6 +15,8 @@
 
 ## Overview 👀
 <img src="images/Screenshot resume.jpg">
+<img src="images/resume2.png">
+<img src="images/resume3.png">
 
 - Build Resume and get ready for internships & placement 👨‍💻
 - Clean UI ⚡
