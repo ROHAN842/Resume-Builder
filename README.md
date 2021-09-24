@@ -49,7 +49,7 @@
 > Clone the repo
     >> For Windows: Git Bash
     >> For Linux: Terminal
-    >> git clone https://github.com/ROHAN842/peercoder.git
+    >> git clone https://github.com/ROHAN842/Resume-Builder.git
     >> cd MainFolder/DirectoryName
 > Install all dependencies
     >> npm i
