@@ -25,7 +25,7 @@
 - After filling all information, download resume in PDF 📁 format
 - Success notification is being displayed to user whie resume is downloading with a green tick ✅
 
-## What is Peer Coder? 🤔
+## What is Resume Builder? 🤔
 
 #### Resume Builder is basically a website for generating resume. 
 #### The front end of Resume Builder is purely made with react.js, while the back end is made with Nodejs and Expressjs.
