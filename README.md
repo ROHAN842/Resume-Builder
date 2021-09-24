@@ -16,31 +16,30 @@
 ## Overview 👀
 <img src="images/Screenshot resume.jpg">
 
-- Interview Preparation with Peer 👨‍💻
-- Real time video chat 📹 as well as normal chat 💬 with Peer
+- Build Resume and get ready for internships & placement 👨‍💻
 - Clean UI ⚡
-- Online compiler facility is also there where peers can test their optimized, as well as Brute Force approach 👨🏻‍💻
-- Leetcode, InterviewBit and HackerRank practice problems are mentioned in it in order to prepare for interviews ✊
-- If peer wants to meet at some location and do peercoding at some place, then they can share their location 📍
+- User can easily toggle between any two successive pages by using Back ⬅️ and Next ➡️ buttons
+- While toggling between successive pages user's data will be completely saved 💾 in form templates made using react.js  
+- After filling all information, download resume in PDF 📁 format
+- Success notification is being displayed to user whie resume is downloading with a green tick ✅
 
 ## What is Peer Coder? 🤔
 
-#### Remote pair programming is something developers have grappled with since well before the pandemic began. 
-#### Peercoder is basically a platform where two peers can do their interview preparation by practicing DSA problems and improve their problem solving skills.
-#### Peer Coder is ideal for Online Interviewing of Developers as well as Learning to code from Friends.
+#### Resume Builder is basically a website for generating resume. 
+#### The front end of Resume Builder is purely made with react.js, while the back end is made with Nodejs and Expressjs.
+#### Alongwith 'axios' and 'file-saver' packages are used in it for generating pdf and saving the details entered by the user at the server side.
 
 
 ## How it works? 🤔
 - **Open the website [http://lk-resumebuilder.herokuapp.com/](http://lk-resumebuilder.herokuapp.com/)**
-- **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
-- **For Video Chat, peer just need to copy a unique id and send it to peer with whom he/she want to chat.**
+- **Fill all the relevant information present in 4-5 pages such as Project details, Experience Info, Education Info, Extra Curriculars/Activities Details.**
+- **At last click on Download PDF button and in few seconds resume will be downloaded in PDF format.**
 
 ## Dependencies 🗃
 
 - [React.js](https://reactjs.org/) - **Frontend Framework**
 - [Node.js](https://nodejs.org/en/) - **Backend Framework**
 - [Express.js](https://expressjs.com/) - **Server Side Node.js Framework**
-- [Socket.io](https://socket.io/) - **Client-Server Communication**
 
 ## Run Locally 💻
 
@@ -49,11 +48,11 @@
     >> For Windows: Git Bash
     >> For Linux: Terminal
     >> git clone https://github.com/ROHAN842/peercoder.git
-    >> cd Peercoder
+    >> cd MainFolder/DirectoryName
 > Install all dependencies
     >> npm i
 > Spin the server on port 5000
-    >> cd src
+    >> cd MainFolder/DirectoryName
     >> nodemon or node index.js
 > Spin the react on port 3000
     >> cd client
