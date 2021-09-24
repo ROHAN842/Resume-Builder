@@ -11,7 +11,7 @@
 
 
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](http://lk-resumebuilder.herokuapp.com/)
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/peercoder)
+[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Resume-Builder)
 
 ## Overview 👀
 <img src="images/Screenshot resume.jpg">
