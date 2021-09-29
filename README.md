@@ -23,7 +23,7 @@
 - User can easily toggle between any two successive pages by using Back ⬅️ and Next ➡️ buttons
 - While toggling between successive pages user's data will be completely saved 💾 in form templates made using react.js  
 - After filling all information, download resume in PDF 📁 format
-- Success notification is being displayed to user whie resume is downloading with a green tick ✅
+- Success notification is being displayed to user while resume is downloading with a green tick ✅
 
 ## What is Resume Builder? 🤔
 
